@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/KgpRestaurants/static/css/main.de6141ac.css",
+    "main.js": "/KgpRestaurants/static/js/main.caa30eb4.js",
+    "static/media/7.jpg": "/KgpRestaurants/static/media/7.dd262f95e96ad121ef56.jpg",
+    "static/media/bg1.jpg": "/KgpRestaurants/static/media/bg1.55c489af7f098c5dafa4.jpg",
+    "static/media/4.jpg": "/KgpRestaurants/static/media/4.dcf069f27225895f1b34.jpg",
+    "static/media/1.jpg": "/KgpRestaurants/static/media/1.e5fc4de7a1fe3acb0360.jpg",
+    "static/media/3.jpg": "/KgpRestaurants/static/media/3.1bd8945cb104dfdf0d33.jpg",
+    "static/media/9.jpg": "/KgpRestaurants/static/media/9.66a5ce068339e995becf.jpg",
+    "static/media/5.jpg": "/KgpRestaurants/static/media/5.118e6cbea4665eceee9e.jpg",
+    "static/media/2.jpg": "/KgpRestaurants/static/media/2.1153e6bd93563c7a0bd1.jpg",
+    "static/media/8.jpg": "/KgpRestaurants/static/media/8.7f53368f6475d7b612ea.jpg",
+    "static/media/6.jpg": "/KgpRestaurants/static/media/6.4fab1b7eabe9c38eb763.jpg",
+    "static/media/10.jpg": "/KgpRestaurants/static/media/10.7a2eb5f8003aa84a6611.jpg",
+    "static/media/bg3.jpg": "/KgpRestaurants/static/media/bg3.7e2ffe98462989395192.jpg",
+    "static/media/favicon.ico": "/KgpRestaurants/static/media/favicon.b126889a19c3130b5dff.ico",
+    "static/media/bg2.webp": "/KgpRestaurants/static/media/bg2.e1e84674ec7d7805a2fa.webp",
+    "index.html": "/KgpRestaurants/index.html",
+    "main.de6141ac.css.map": "/KgpRestaurants/static/css/main.de6141ac.css.map",
+    "main.caa30eb4.js.map": "/KgpRestaurants/static/js/main.caa30eb4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de6141ac.css",
+    "static/js/main.caa30eb4.js"
+  ]
+}
