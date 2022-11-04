@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/KgpRestaurants/static/css/main.de6141ac.css",
-    "main.js": "/KgpRestaurants/static/js/main.caa30eb4.js",
+    "main.js": "/KgpRestaurants/static/js/main.a80ce675.js",
     "static/media/7.jpg": "/KgpRestaurants/static/media/7.dd262f95e96ad121ef56.jpg",
     "static/media/bg1.jpg": "/KgpRestaurants/static/media/bg1.55c489af7f098c5dafa4.jpg",
     "static/media/4.jpg": "/KgpRestaurants/static/media/4.dcf069f27225895f1b34.jpg",
@@ -18,10 +18,10 @@
     "static/media/bg2.webp": "/KgpRestaurants/static/media/bg2.e1e84674ec7d7805a2fa.webp",
     "index.html": "/KgpRestaurants/index.html",
     "main.de6141ac.css.map": "/KgpRestaurants/static/css/main.de6141ac.css.map",
-    "main.caa30eb4.js.map": "/KgpRestaurants/static/js/main.caa30eb4.js.map"
+    "main.a80ce675.js.map": "/KgpRestaurants/static/js/main.a80ce675.js.map"
   },
   "entrypoints": [
     "static/css/main.de6141ac.css",
-    "static/js/main.caa30eb4.js"
+    "static/js/main.a80ce675.js"
   ]
 }
