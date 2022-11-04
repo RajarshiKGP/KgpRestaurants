@@ -22,8 +22,8 @@ const NavBar = () => {
                                     Sign Up
                                 </button>
                                 <ul className="dropdown-menu">
-                                    <li><a className="dropdown-item" href="/sign">Owner Profile</a></li>
-                                    <li><a className="dropdown-item" href="/sign">Customer Profile</a></li>
+                                    <li><Link className="dropdown-item" to="/sign">Owner Profile</Link></li>
+                                    <li><Link className="dropdown-item" to="/sign">Customer Profile</Link></li>
                                 </ul>
                             </div>
                             <div className="btn-group">
@@ -31,8 +31,8 @@ const NavBar = () => {
                                     Sign In
                                 </button>
                                 <ul className="dropdown-menu">
-                                    <li><a className="dropdown-item" href="/sign">Owner Profile</a></li>
-                                    <li><a className="dropdown-item" href="/sign">Customer Profile</a></li>
+                                    <li><Link className="dropdown-item" to="/sign">Owner Profile</Link></li>
+                                    <li><Link className="dropdown-item" to="/sign">Customer Profile</Link></li>
                                 </ul>
                             </div>
                         </div>
