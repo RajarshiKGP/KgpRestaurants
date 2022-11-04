@@ -1,0 +1,4 @@
+.Book1, .Book2 {
+    display: flex;
+    column-gap: 1em;
+}

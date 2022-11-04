@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Alkalami&family=Anek+Latin:wght@500&family=Dancing+Script:wght@700&family=Heebo&family=Kolker+Brush&family=Lobster&family=Peralta&family=Poppins:ital@1&family=Rubik+Moonrocks&family=Rubik:wght@400;600&family=Silkscreen&family=Titan+One&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Alkalami&family=Anek+Latin:wght@500&family=Dancing+Script:wght@700&family=Heebo&family=Kalam&family=Kolker+Brush&family=Lobster&family=Peralta&family=Poppins:ital@1&family=Rubik+Moonrocks&family=Rubik:wght@400;600&family=Silkscreen&family=Titan+One&display=swap');
+
+
+.Box {
+    display: flex;
+    flex-wrap: wrap;
+    box-shadow: 10px 10px 5px;
+    border-radius: 20px;
+    max-width: 90%;
+    margin: 50px;
+    justify-content: center;
+    gap: 5%;
+    align-items: center;
+    padding: 0px 30px;
+    background-color: rgb(242, 245, 231);
+}
+.Box img {
+    border-radius: 20px;
+    margin-bottom: 3%;
+}
+.Cont {
+    padding: 30px;
+}
+.Cont h3 {
+    font-family: 'Lobster', cursive;
+    font-size: 45px;
+    text-decoration: underline;
+}
+.Cont p {
+    font-family: 'Kalam', cursive;
+    font-size: 30px;
+    margin-top: 20px;
+}
+.buttons {
+    margin: 30px 60px;
+    display: flex;
+    justify-content: space-between;
+}
+textarea {
+    border-radius: 10px;
+    box-shadow: inset 2px 2px 5px;
+}
+textarea:focus {
+    box-shadow: inset 3px 3px 5px rgb(1, 179, 1);
+}

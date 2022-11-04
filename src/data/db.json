@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "image": "./images/restaurants/1.jpg",
+        "Name": "Mio_Amore",
+        "Location": "https://www.google.com/maps/search/mio+amore+iit+kharagpur/@22.3235234,87.2995854,14z/data=!3m1!4b1",
+        "Details": "Mio Amore is known for its vast varieties of fast foods."
+    },
+    {
+        "id": 2,
+        "image": "./images/restaurants/2.jpg",
+        "Name": "Heritage",
+        "Location": "https://www.google.com/maps?q=heritage+iit+kgp&rlz=1C1CHBF_enIN996IN996&sxsrf=ALiCzsZAm0a2h24vuv8IDyh3f06YRi0zqw:1667322627595&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAxgAMgoILhDHARCvARBDMgUILhCRAjIFCAAQkQIyBwgAELEDEEMyDQgAEIAEELEDEIMBEAoyBwgAEIAEEAoyDQgAEIAEELEDEIMBEAoyDQgAEIAEELEDEIMBEAoyDQgAEIAEELEDEMkDEAoyEwguEIAEELEDEIMBEMcBEK8BEAo6DQguEMcBEK8BEOoCECc6BwgjEOoCECc6BAgjECc6CwguEMcBEK8BEJECOgsIABCABBCxAxCDAToRCC4QgAQQsQMQgwEQxwEQ0QM6CAguELEDEIMBOgoIABCxAxCDARAKOggIABCxAxCDAToECAAQQzoECC4QQzoHCC4QsQMQQzoHCC4Q1AIQQzoNCC4QsQMQxwEQ0QMQQzoLCC4QgAQQsQMQ1AI6EQguEIAEELEDEIMBEMcBEK8BOgoILhCxAxCDARBDOgUILhCABDoFCAAQgAQ6CwguEIAEEMcBEK8BOgoIABCABBCxAxAKOgoIABCABBDJAxAKSgQIQRgASgQIRhgAUJYSWKBUYKNgaAFwAHgAgAHVBIgBvhaSAQkyLTQuMS4yLjGYAQCgAQGwAQrAAQE&um=1&ie=UTF-8&sa=X&ved=2ahUKEwiU4_WcvY37AhUzq1YBHdqHBnsQ_AUoAXoECAEQAw",
+        "Details": "Heritage is one of the most popular restaurents within IIT Kharagpur cmapus among students."
+    },
+    {
+        "id": 3,
+        "image": "./images/restaurants/3.jpg",
+        "Name": "Smart_Pind",
+        "Location": "https://www.google.com/maps/place/SmartPind/@22.3191332,87.3033225,17z/data=!3m1!4b1!4m5!3m4!1s0x3a1d45d52268ae97:0x98261dddc569264!8m2!3d22.3191332!4d87.3055112",
+        "Details": "Smart Pind is known for its vast varieties of fast foods."
+    },
+    {
+        "id": 4,
+        "image": "./images/restaurants/4.jpg",
+        "Name": "Amigos",
+        "Location": "https://www.google.com/maps/place/Amigos+A%2Fc+Dine+in+Resto/@22.3234349,87.3085982,17z/data=!3m1!4b1!4m5!3m4!1s0x3a1d440ff96db55f:0x9de26ad300811a22!8m2!3d22.3234306!4d87.3107972?hl=en",
+        "Details": "Amigos is known for its vast varieties of fast foods and is very popular among studnets."
+    },
+    {
+        "id": 5,
+        "image": "./images/restaurants/5.jpg",
+        "Name": "Dreamland_Restaurant",
+        "Location": "https://www.google.com/maps/place/Dreamland+Restaurant/@22.313814,87.3035634,17z/data=!3m1!4b1!4m5!3m4!1s0x3a1d44019a62c23f:0xb7294341596f6adf!8m2!3d22.3139229!4d87.3057281?hl=en",
+        "Details": "Dreamland is known for its vast varieties of fast foods."
+    },
+    {
+        "id": 6,
+        "image": "./images/restaurants/6.jpg",
+        "Name": "Food_City",
+        "Location": "https://www.google.com/maps/place/Food+City/@22.3209147,87.3051209,17z/data=!3m1!4b1!4m5!3m4!1s0x3a1d4405cfac1a2d:0x180755e3837f2adb!8m2!3d22.3209147!4d87.3073096?hl=en",
+        "Details": "Food City is a very renowned restaurant within IIT KGP campus."
+    },
+    {
+        "id": 7,
+        "image": "./images/restaurants/7.jpg",
+        "Name": "Subway",
+        "Location": "https://www.google.com/maps/place/Subway/@22.3159629,87.3147858,17z/data=!3m1!4b1!4m5!3m4!1s0x3a1d441e9b9c0df1:0x942643ad37bafad!8m2!3d22.3159629!4d87.3169745?hl=en",
+        "Details": "Subway is known for its vast varieties of fast foods and is located near the classroom  area of IIT KGP."
+    },
+    {
+        "id": 8,
+        "image": "./images/restaurants/8.jpg",
+        "Name": "Vegies",
+        "Location": "https://www.google.com/maps/place/Vegies+restaurant/@22.3192279,87.2874688,15z/data=!4m9!1m2!2m1!1sveggies+iit+kharagpur!3m5!1s0x3a1d45e2b77147dd:0x204a9099f6f4592a!8m2!3d22.3192206!4d87.3049786!15sChV2ZWdnaWVzIGlpdCBraGFyYWdwdXJaFyIVdmVnZ2llcyBpaXQga2hhcmFncHVykgEUZmFzdF9mb29kX3Jlc3RhdXJhbnSaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVTlZjVFJZYkV0QkVBReABAA?hl=en",
+        "Details": "Vegies is popular for its quality and variety of veg dishes in IIT KGP campus."
+    },
+    {
+        "id": 9,
+        "image": "./images/restaurants/9.jpg",
+        "Name": "PFC",
+        "Location": "https://www.google.com/maps?q=pfc+iit+kgp&rlz=1C1CHBF_enIN996IN996&sxsrf=ALiCzsbX6WRCbp95x5SCg1v6aZ2HXW7xZA:1667322739526&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAxgBMgQIABBDMgoILhDHARCvARBDMgQIABBDMgUIABCRAjILCAAQgAQQsQMQgwEyBAgAEEMyCwgAEIAEELEDEIMBMhAILhCxAxCDARDHARDRAxBDMgsIABCABBCxAxCDATILCAAQgAQQsQMQgwE6DQguEMcBEK8BEOoCECc6BwgjEOoCECc6BAgjECc6CwguEMcBEK8BEJECOgUILhCRAjoLCC4QgAQQsQMQgwFKBAhBGABKBAhGGABQswhYtgpg5x9oAXAAeACAAfUCiAHkBJIBBTItMS4xmAEAoAEBsAEKwAEB&um=1&ie=UTF-8&sa=X&ved=2ahUKEwj_oqCrvY37AhWIt1YBHcDjB_kQ_AUoAXoECAEQAw",
+        "Details": "PFC is known for its vast varieties of fast foods and also main course dishes."
+    },
+    {
+        "id": 10,
+        "image": "./images/restaurants/10.jpg",
+        "Name": "Momo_Mania",
+        "Location": "https://www.google.com/maps/place/Momo+Shop/@22.3152191,87.2914443,17z/data=!3m1!4b1!4m5!3m4!1s0x3a1d43f9801005b1:0x2fa00c8139d4f8ef!8m2!3d22.3152433!4d87.2936482",
+        "Details": "It is the most popular destination for the momo lovers in IIT Campus."
+    }
+]

@@ -1,0 +1,39 @@
+.Container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#name {
+    font-size: 23px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+}
+
+.box {
+    text-align: left;
+    border: black ridge 1px;
+    border-radius: 10px;
+    margin: 10px;
+    width: 20rem;
+    padding: 10px;
+}
+
+.box:hover {
+    font-weight: bolder;
+    position: relative;
+    top: 1px;
+    left: 1px;
+    margin: 15px;
+    box-shadow: 5px 5px 5px;
+}
+
+input {
+    border-radius: 20px;
+    width: 200px;
+    height: 30px;
+    border: rgb(34, 0, 255) solid 3px;
+    box-shadow: 3px 3px 4px;
+    font-size: 15px;
+}
